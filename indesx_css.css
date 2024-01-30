@@ -127,7 +127,7 @@ transition: all ease 1s;
 
 .background
 {
-    background: rgba(0, 0, 0, 0.7) url('../bg-main.png');
+    background: rgba(0, 0, 0, 0.7) url('../bg-main.webp');
     background-size: 90%;
     background-blend-mode: darken;
 }
